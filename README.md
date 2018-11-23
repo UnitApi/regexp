@@ -29,9 +29,11 @@ Just look example:
 How difficult are the Regular Expression know people which have been worked with some of staff such:
 Webcrawler
 
+## Goal
+How to deal with Regular Expression faster und more understandable for non regexp developer?
 
 ## Solution
-
+Meta language for Regular Expression
 
 
 ## Game
